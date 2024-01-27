@@ -1,0 +1,17 @@
+#### assuming this is a fresh VM --> following is a standard syntax
+#trigger for this code to run is whenever something is added to main
+name: Terraform Deployment
+
+on:
+  push:
+    branches:
+      - main
+#git clone/git checkout
+
+#aws configure
+
+#install terraform
+
+#terraform init
+
+#terraform plan
